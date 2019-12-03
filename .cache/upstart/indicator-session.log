@@ -1,0 +1,12 @@
+
+** (process:4921): WARNING **: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/src/backend-dbus/actions.c:199 on_screensaver_proxy_ready: Could not connect: Connection refused
+
+** (process:4921): WARNING **: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/src/backend-dbus/actions.c:215 on_unity_proxy_ready: Could not connect: Connection refused
+
+** (process:4921): WARNING **: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/src/backend-dbus/actions.c:316 on_session_manager_proxy_ready: Could not connect: Connection refused
+
+** (process:4921): WARNING **: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/src/backend-dbus/actions.c:338 on_webcredentials_proxy_ready: Could not connect: Connection refused
+
+** (process:4921): WARNING **: /build/indicator-session-u5LUS9/indicator-session-12.10.5+16.04.20160412/src/backend-dbus/actions.c:360 on_end_session_dialog_proxy_ready: Could not connect: Connection refused
+
+** (process:4921): WARNING **: exiting: service couldn't acquire, or lost ownership of, busname

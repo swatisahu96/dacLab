@@ -1,0 +1,5 @@
+
+(process:4920): Indicator-Datetime-WARNING **: indicator-datetime cannot show EDS appointments: Could not connect: Connection refused
+Indicator-Datetime-Message: indicator-datetime exiting; failed/lost bus ownership
+
+(process:4920): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
